@@ -1,6 +1,6 @@
 # AnsibleEC2
 
-Ansible scripts to set up a basic NodeJS app running on an EC2 instance
+Ansible scripts to set up basic apps running on EC2 instances
 
 ## Instructions
 
